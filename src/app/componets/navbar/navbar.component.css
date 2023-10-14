@@ -1,0 +1,18 @@
+.navbar-conteiner{
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: rgb(132, 140, 137);
+    color: black;
+}
+.navbar-conteiner a{
+        text-decoration: none;
+        font-size: 1.5rem;
+
+}
+.navbar-conteiner a:hover,:visited{
+    color: rgb(92, 80, 123);
+}
+.navbar-conteiner a:active{
+    color: black;
+}
